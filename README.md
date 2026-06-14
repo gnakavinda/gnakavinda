@@ -57,10 +57,19 @@ A solo-built, production web app serving Grade 5, O/L, and A/L exam preparation.
 
 ## Certifications & Background
 
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-- 10+ years in Azure infrastructure - networking, identity, governance, automation
-- Senior Consultant at Advania (Nordic IT services) - multi-tenant CSP/Lighthouse operations
-- MSc in Information Technology
+**Completed**
+- AZ-900, AI-900
+- 70-703 (SCCM), 70-410, 70-411 (Windows Server)
+- NVIDIA AI, Advanced Linux Administration, Sun Certified Java Programmer
+
+**In Progress**
+- AZ-104 (Microsoft Azure Administrator)
+- AI-102 (Azure AI Engineer Associate)
+- AZ-305 (Azure Solutions Architect Expert)
+
+**Education**
+- MSc in Information Technology, Cardiff Metropolitan University, UK (2021, Merit)
+- BCS Level 4 Certificate in IT, ESOFT Metro Campus (2016)
 
 ---
 
