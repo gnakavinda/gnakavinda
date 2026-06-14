@@ -1,26 +1,76 @@
-# Hi, I'm Kavinda Madushan 👋
+# Kavinda Madushan — Senior Cloud & IaC Engineer
 
-Cloud Infrastructure Engineer with 10+ years of experience designing and deploying enterprise-scale solutions on Azure. Based in Sri Lanka, working with clients across Norway, Sweden, India, and Sri Lanka.
+> 10+ years designing and automating Azure infrastructure at enterprise scale.  
+> Currently deepening Terraform and AKS — building in public.
 
-## 🔧 What I Do
+---
 
-- **Infrastructure as Code** — Azure landing zones, Bicep, PowerShell, CI/CD pipelines
-- **Multi-tenant Cloud Architecture** — CSP & Azure Lighthouse environments
-- **DevOps** — Azure DevOps, pipeline automation, tag-driven infrastructure management
-- **AI Integration** — Azure OpenAI, RAG architecture, Gemini AI
+## What I Do
 
-## 🚀 Currently Building
+I design, automate, and operate Azure infrastructure — from landing zones and management group hierarchies to CI/CD pipelines that deploy them. Most of my career has been in multi-tenant, multi-customer environments (CSP/Lighthouse), which means I build for scale and repeatability by default.
 
-**[LazyFox](https://lazyfox.lk)** — A full-stack exam simulator platform digitalizing paper-based exams for the Sri Lankan education market. Built with Next.js, PostgreSQL, Azure Functions, Azure Container Apps, and Gemini AI.
+**Core focus areas:**
+- Infrastructure as Code — Bicep (production), Terraform (active development)
+- Azure DevOps pipelines — build, release, Universal Packages, multi-stage
+- PowerShell automation — scripting, retry patterns, REST API integrations
+- Multi-tenant Azure management via CSP and Azure Lighthouse
+- Azure Update Manager, Policy, RBAC, and governance at scale
 
-## 🛠️ Tech Stack
+---
 
-`Azure` `Bicep` `PowerShell` `Python` `TypeScript` `Azure DevOps` `Docker` `Next.js` `PostgreSQL`
+## Current Stack
 
-## 📜 Certifications
+```
+IaC          │ Bicep · Terraform (AzureRM)
+Pipelines    │ Azure DevOps · GitHub Actions
+Cloud        │ Azure (VNet · AKS · ACR · Key Vault · App Service · Functions)
+Scripting    │ PowerShell · Bash
+Containers   │ Docker · Azure Container Apps · AKS (learning)
+App Stack    │ Next.js · TypeScript · FastAPI · PostgreSQL (Neon)
+```
 
-AZ-900 | AI-900 | NVIDIA AI | AZ-104 *(In Progress)* | AI-102 *(In Progress)* | AZ-305 *(In Progress)*
+---
 
-## 📫 Connect
+## What I'm Building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavinda%20Madushan-blue)](https://linkedin.com/in/kavinda-madushan)
+### [LazyFox](https://lazyfox.lk) — Exam Practice Platform for Sri Lankan Students
+A solo-built, production web app serving Grade 5, O/L, and A/L exam preparation.
+
+**Infrastructure:** Azure Functions (TypeScript) · Azure Container Apps (FastAPI) · Azure Blob Storage · Neon PostgreSQL · Firebase Auth · Vercel
+
+**What makes it interesting from an infrastructure angle:**
+- OCR pipeline using Gemini 2.5 Flash, deployed to Azure Container Apps via Docker
+- Azure Functions backend handling exam generation, topic seeding, and scoring
+- Full CI/CD from GitHub to Azure — no manual deployments
+
+---
+
+## Featured Repositories
+
+| Repo | What it covers |
+|---|---|
+| `azure-terraform-iac` | Enterprise Terraform patterns — remote state, modules, AzureRM, AKS provisioning |
+| `azure-bicep-modules` | Reusable Bicep modules for VNet, RBAC, Policy, and governance |
+| `sles` | LazyFox source — Next.js + Azure Functions + FastAPI + Neon |
+
+---
+
+## Certifications & Background
+
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- 10+ years in Azure infrastructure — networking, identity, governance, automation
+- Senior Consultant at Advania (Nordic IT services) — multi-tenant CSP/Lighthouse operations
+- MSc in Information Technology
+
+---
+
+## Open To
+
+Remote or relocation-friendly **IaC / Cloud Infrastructure Engineer** roles — particularly in EU/Nordic markets.  
+Strong fit for teams running Azure at scale who need someone who can own infrastructure end-to-end, not just run playbooks.
+
+📫 [LinkedIn](https://www.linkedin.com/in/kavinda-madushan/) · 🌐 [lazyfox.lk](https://lazyfox.lk)
+
+---
+
+*Sri Lanka · Available for remote work*
